@@ -1,4 +1,5 @@
 # Crud Python
+# Situação do projeto (Em andamento)
 
 ## CRUD simples em Python + conexão com banco de dados MySQL
 
