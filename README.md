@@ -17,4 +17,4 @@
 </div>
 
 ## Arquivo executável - realizado pela biblioteca auto-py
-1. Baixe o arquivo executável [aqui](/Search.exe).
+Baixe o arquivo executável [aqui](/Search.exe).
