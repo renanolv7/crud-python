@@ -9,7 +9,7 @@
 - Deletar informações
 
 
-###Tecnologias
+### Tecnologias
 <div>
     <img align="center" alt="Renan-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Renan-MySQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
